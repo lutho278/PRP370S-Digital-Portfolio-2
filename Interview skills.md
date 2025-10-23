@@ -1,7 +1,7 @@
 ### Evidence
 ![Blackboard Submission Receipt](media/Interview-skills.png)
 
-### Reflection: Interview Skills (STAR Method)
+### Reflection: Interview Skills 
 
 **S – Situation**  
 During the PRP370S Work Readiness Training, I completed the Interview Skills module, which focused on preparing for real-world job interviews by understanding interview types, common questions, and answering techniques.
