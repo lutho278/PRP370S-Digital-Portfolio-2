@@ -1,5 +1,5 @@
 ###   Evidence
-![Blackboard Submission Receipt](Business communication.png)
+![Blackboard Submission Receipt](Businessommunication.png)
 ### Reflection: Interview Skills (STAR Method)
 
 **S – Situation**  
