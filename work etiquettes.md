@@ -1,5 +1,5 @@
 ### Evidence
-![Blackboard Submission Receipt](media/Work-etiquettes.png)
+![Blackboard Submission Receipt](media/Work-etiquetes.png)
 
 ### Reflection: Workplace Etiquette
 
