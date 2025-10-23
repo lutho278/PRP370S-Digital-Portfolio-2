@@ -1,5 +1,5 @@
 ### Evidence
-![Blackboard Submission Receipt](media/interview-skills.png)
+![Blackboard Submission Receipt](media/Interview-skills.png)
 
 ### Reflection: Interview Skills (STAR Method)
 
