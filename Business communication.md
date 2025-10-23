@@ -1,15 +1,16 @@
 ###   Evidence
 ![Blackboard Submission Receipt](media/Business-communication.png)
-### Reflection: Interview Skills (STAR Method)
+
+### Reflection: Business Communication
 
 **S – Situation**  
-During the PRP370S Work Readiness Training, I completed the Interview Skills module, which focused on preparing for real-world job interviews by understanding interview types, common questions, and answering techniques.
+During the PRP370S Work Readiness Training, I completed the Business Communication module, which focused on understanding professional workplace communication — including formal language, business emails, video conferencing etiquette, and non-verbal communication.
 
 **T – Task**  
-My objective was to develop professional interview competence by learning how to respond effectively to behavioral and situational questions using structured frameworks such as STAR (Situation, Task, Action, Result).
+My goal was to develop strong professional communication skills that are essential in the modern workplace. This included learning how to communicate clearly, professionally, and appropriately in both written and virtual environments.
 
 **A – Action**  
-I practiced identifying the intention behind interview questions and learned to answer them using the STAR method. For example, I learned to describe the **Situation**, explain my **Task**, detail my **Actions**, and conclude with the **Result** and lessons learned. I also improved my awareness of the importance of preparation, company research, clear communication, and confident body language.
+I studied various aspects of business communication, such as the correct tone for business emails, the importance of formal and respectful language, and proper etiquette during video meetings (e.g., virtual background settings and body language). I also improved my understanding of non-verbal communication cues like facial expressions, posture, and eye contact. This module required me to apply my critical thinking to select the most professional response in different business scenarios.
 
 **R – Result**  
-As a result, I am now able to present my experiences in a structured and professional manner during interviews. I feel more confident handling difficult or unexpected questions and can make a strong and positive impression on potential employers. This skill is valuable for my future career in the ICT and multimedia industry.
+I gained a deeper understanding of how to communicate professionally and confidently in a workplace setting. I now know how to adapt my tone, structure, and behavior depending on the communication context. This module has prepared me to interact professionally with clients, colleagues, and stakeholders in both physical and virtual environments — an essential skill for success in the ICT and multimedia industry.
