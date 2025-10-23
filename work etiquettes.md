@@ -1,6 +1,7 @@
 ### Evidence
+![Blackboard Submission Receipt](media/Work-etiquettes.png)
 
-### Reflection: Workplace Etiquett
+### Reflection: Workplace Etiquette
 
 **S – Situation**  
 As part of the PRP370S Work Readiness Training, I completed the Workplace Etiquette module, which focused on professional behavior and conduct in a formal working environment. The module covered appropriate responses to difficult situations such as rude emails, handling confidential information, punctuality, and personal phone usage in the workplace.
