@@ -1,6 +1,9 @@
 ### Evidence
-![Blackboard Submission Receipt](media/220280150.mp4)
+This video demonstrates my communication skills, confidence, and ability to present my qualifications, skills, and hobbies in a professional manner.  
+It was recorded as part of the PRP370S Work Readiness Training to showcase my readiness for future employment.
 
+**Watch or Download the Video:**
+[Watch Interview Video](media/220280150.mp4)
 
 ### Reflection: Mock Interview Video
 
